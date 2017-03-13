@@ -1,0 +1,5 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\CreateStudent2\CreateStudent2\bin\Debug\CreateStudent2.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\CreateStudent2\CreateStudent2\bin\Debug\CreateStudent2.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\CreateStudent2\CreateStudent2\bin\Debug\CreateStudent2.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\CreateStudent2\CreateStudent2\obj\Debug\CreateStudent2.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\CreateStudent2\CreateStudent2\obj\Debug\CreateStudent2.pdb

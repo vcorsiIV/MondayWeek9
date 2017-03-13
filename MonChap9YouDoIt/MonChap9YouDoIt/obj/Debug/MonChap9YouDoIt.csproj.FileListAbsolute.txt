@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\MonChap9YouDoIt\MonChap9YouDoIt\bin\Debug\MonChap9YouDoIt.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\MonChap9YouDoIt\MonChap9YouDoIt\bin\Debug\MonChap9YouDoIt.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\MonChap9YouDoIt\MonChap9YouDoIt\bin\Debug\MonChap9YouDoIt.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\MonChap9YouDoIt\MonChap9YouDoIt\obj\Debug\MonChap9YouDoIt.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\MonChap9YouDoIt\MonChap9YouDoIt\obj\Debug\MonChap9YouDoIt.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\MonChap9YouDoIt\MonChap9YouDoIt\obj\Debug\MonChap9YouDoIt.pdb
